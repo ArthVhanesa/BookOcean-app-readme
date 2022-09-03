@@ -113,3 +113,16 @@ Backend is developed by 👇
 <!-- Instagram -->
 <a href="https://instagram.com/kartikjetani15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikjetani15" height="30" width="40" /></a>
 </p>
+
+
+![screen_1](https://user-images.githubusercontent.com/77712031/188257573-a738e7e4-ffe4-48c5-834e-79794050072f.png)
+
+![screen_2](https://user-images.githubusercontent.com/77712031/188257582-fb404a8a-ba93-49d3-8abf-a84a1b10d740.png)
+
+![screen_3](https://user-images.githubusercontent.com/77712031/188257589-8d125d65-7024-450b-9741-0d66fbc236bc.png)
+
+![screen_4](https://user-images.githubusercontent.com/77712031/188257602-4eac0ec6-88ec-445d-9eb3-218add4b44ae.png)
+
+![screen_5](https://user-images.githubusercontent.com/77712031/188257605-5c5eb478-6616-4a28-8ee1-06a4f00232b2.png)
+
+![screen_6](https://user-images.githubusercontent.com/77712031/188257611-b466abee-9456-422d-a471-3ff7cf13aed8.png)
